@@ -1,0 +1,14 @@
+Understand the basic organization of a computer
+system and represent digital information using binary
+number systems and logic gates as the foundation of
+digital computing.
+
+Design and simulate combinational logic and build a
+simple Arithmetic Logic Unit(ALU) - the part of the
+north-star CPU that computes
+
+Design, analyze, and integrate sequential logic
+circuits including flip-flops, registers, shift registers,
+counters, program counter, and finite state machines
+for synchronous digital system and RISC-V processor
+applications.

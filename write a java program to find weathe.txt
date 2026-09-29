@@ -1,0 +1,29 @@
+write a java program to find weather the given number is Armstrong number?
+153 is Armstrong number 
+
+Armstrong number is sum of cube of individual numbers
+
+WAP to find weather the given number is perfect number or not?
+perfect no=sum of factors
+
+
+WAP to find weather a given number is a palindrome or not?
+(reverse of the number should be same)
+
+WAP to print the given pattern
+5 4 3 2 1
+5 4 3 2
+5 4 3
+5 4
+5
+
+
+
+
+
+
+
+
+
+
+
